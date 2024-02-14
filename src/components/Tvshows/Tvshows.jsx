@@ -14,7 +14,7 @@ function Tvshows() {
           </div>
         </div>
         <div>
-          <div class="mx-40 w-64 h-64 bg-[url('./assets/images/mov1.png')] object-contain  bg-center bg-cover flex-1 justify-center"></div>
+          <div class="mx-40 w-64 h-64 bg-[url('./assets/images/tv.png')] object-contain  bg-center bg-cover flex-1 justify-center"></div>
         </div>
       </div>
     </>
