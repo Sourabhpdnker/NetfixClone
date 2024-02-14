@@ -1,0 +1,18 @@
+/* .mainnav{
+    background-color: yellow;
+    color: black;
+    display: inline-block;
+} */
+.mainheading {
+    text-align: center;
+    color: rgb(98, 0, 255);
+}
+.navBar {
+    border-radius: 10px;
+}
+.navItems{
+    display: inline-block;
+}
+/* }npm install -D tailwindcss
+npx tailwindcss init 
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch*/
